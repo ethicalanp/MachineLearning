@@ -1,0 +1,18 @@
+Case Study Topics
+1)Google Deepmind's AlphaField & Health AI(Problem Statement,Objective,Process,Model_development,Training,Validation,Deployment,Result,Conclusion)
+2)Retail & E-commerce
+3)Transportation
+4)Education
+5)Finance
+6)Entertainement & Media
+
+
+About Case Studies 
+The practical Implementation of ML across various sectors .It includes case studies where ML Has been used to solve realworld problems  sucha as 
+;-predicting customer behaviour 
+:-improving Healthcare diagnostics
+:-Automating industrial process.
+
+b)Impact of ML on different Industries 
+ML has transformed industries by incresing efficency ,accuracy ,and automation,from personalised reommendations in e-commerce to predictive maintainance in manufacturing and diagnostic tools in healthcare,
+ML continues to drive innovations and values in diverse fields . 

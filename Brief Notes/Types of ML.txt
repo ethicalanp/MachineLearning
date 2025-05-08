@@ -1,0 +1,17 @@
+Types Of Machine Learning
+
+a)Supervised Learning :- It is the type of machine learning where the model is trained on labeled data ,meaning the input comes with the correct output .the goal is to learn a mapping from inputs to outputs.
+eg:-Spam detection ,house price prediction.
+Common Algoritms: Linear regression (regression),Logistic Regression(classification),Decision Tree(Classification)
+
+b)Unsupervised Learning:-It involves training models on data without labeled outputs .The systems tries to identify patterns and structures in the data .
+eg:-Customer segmentation ,Market basket analysis.
+Common algorithm:- K-Means Clustering(Clustering),Principal Component Analysis(PCA-Dimensionality Reduction),Aprioiri Algoritm(AssociationRule learning)
+
+c)Reinforcement Learning:-Its a type of learning where an agent intracts with an environment and learns to make decisions based on rewards and penalties.
+eg:-Game playing (Alpha go),robotic control.
+Basic Cocepts:Agents ,Enviorment,Rewards .
+
+d)Semisupervised Learning:-its the type that machine learning that falls between supervised and unsupervised learning. It uses a small amount of labeled data and a large amount of unlabeled data to train models. This approach is especially useful when labeling data is expensive or time-consuming, but unlabeled data is abundant.
+eg:-Document classification (e.g., spam detection), image recognition (e.g., classifying cats and dogs with few labeled images), speech recognition.
+Common algorithm:-Self-Training ,Co-training.

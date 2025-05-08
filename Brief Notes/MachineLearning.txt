@@ -1,0 +1,15 @@
+A)Machine learning is a subset of ai that enables computers to learn from dta and improve their performance over time without beign explicitly programmed .It uses algoritm to identify patterns and make decisions or predictions .
+
+B)Differencee between Machine Learning ,AI,and Data Science :Ai is a board feild foucused on building smart system that mimic human intelligence .
+Machine Learning is a part of AI that specifically deals with learning from data .
+Data Science involves collecting of data,processing,analysing and visualizing dta using various tools ,including ML ,to extract insights and support desicion-making .
+
+C)Key Components of a Machine Learning  System :
+the main components include :
+1)data :The foundation for training models
+2)Model:the mathematical representation of a real-world process.
+3)Algorithm :The method used to train the model.
+4)features:Input variables used for learning.
+5)Training and Evaluation:The process of improving and testing the model.
+6)Deployment:Using the trained model in real world applications.
+

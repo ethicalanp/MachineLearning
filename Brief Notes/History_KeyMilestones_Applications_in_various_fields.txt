@@ -1,0 +1,21 @@
+History and Applications of Machine Learning 
+a)ML emerged from the broder field of Artificial Intelliegnce in the 1950's .It began with the development of simple neural networks and evolved with advancements in computing power and data availability .Over time ,ML shifted form rule-based systems to data driven
+algoritj=hms that could learn and adapt .
+
+b)Key Milestones inthe Development Of ML;
+*)1959:- Arthur Samuel coined the term "Machine Learning"
+*)1967:-Introduction of the nearest neighbour algorithm
+*)1980's:- Development of decision tree and early nueral networks 
+*)1997:- IBM Deep Blue defeated world chess champion Garry Kasparov.
+*)2006:- Geoffery Hinton popularised deep learning .
+*)2012:-Breakthrough in image recognition using deep neural networks (AlexNet).
+*)2017:-transformers and breakthrough in NLP, Sophia robot 
+*)2020:-GPt 3
+
+c)Applications of ML in various Fields
+*)HELATHCARE:- Disease prediction ,medical imaging ,drug discovery .
+*)Finance :-Fraud detection,algorithmic trading ,risk assesment.
+*)E-commerece:-Personalised recommendations,customer segmentation,dynamic pricing .
+*)transportation :- Self driving cars,route optimisation.
+*)Agriculture :-Crop monitoring ,yeild prediction.
+*)Education :- Adaptive learning ,automated grading. 

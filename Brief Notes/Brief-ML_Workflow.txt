@@ -1,0 +1,14 @@
+Machine Learning Workflow 
+It Outlinees the steps involved in building ,evalutaing ,and deploying machine learnning model.
+
+a)Data Collection and Preprocessing 
+This step involves gathering relavent data form various sources and preparing it for modeling by cleaning ,transforming,and handling missing or inconsistent values.
+
+b)Model Selection and Training 
+Choosing the right algorithm baased on the problem statement and type ,then training the model using the prepared data to learn patterns and relationships .
+
+c)Model evaluation and Validation
+Assesing the models performance using metrics like accuracy ,precsion,recall,or RMSE, validation ensure the model generalises well ,to useen data.
+
+d)Model Deployment and Monitoring 
+Deploying the trained model into a real workd enviornment and continuosly monitoring its performance to ensure accuracy over time and retraining when necessary.
