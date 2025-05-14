@@ -1,1 +1,1 @@
-This is an introduction and brief about MachineLearning!!  
+This is an introduction and brief about MachineLearning and some common ML-Algorithms!!  
